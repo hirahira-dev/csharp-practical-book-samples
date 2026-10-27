@@ -66,6 +66,6 @@ dotnet run --project samples/01-getting-started/FirstApp/FirstApp.csproj
 
 ## License
 
-本リポジトリのサンプルコードはMIT Licenseで公開します。
+本リポジトリのサンプルコードはMIT Licenseで公開しています。
 
 書籍本文、画像、スクリーンショット、その他の書籍コンテンツはMIT Licenseの対象外です。
